@@ -14,4 +14,13 @@ Kids will now break up into as many groups as we have helpers for. One kid will 
 ## 3rd Activity - “Programming a Computer”
 Kids will go to the library computer lab. Open their browsers to <link to be provided>. Then, they can type this program:
 
+[Khan Academy Editor](https://www.khanacademy.org/computer-programming/new/pjs)
 
+### Program 1
+```
+background(255, 255, 0);
+fill(255, 0, 0);
+stroke(0, 255, 0);
+strokeWeight(20);
+rect(20, 20, 200, 200);
+```
